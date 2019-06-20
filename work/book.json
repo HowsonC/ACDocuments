@@ -9,7 +9,37 @@
     },
     "links": {
         "sidebar": {
-            "Affective Cloud Documents": "https://api.affectivecloud.cn"
+            "Affective Cloud": "https://api.affectivecloud.cn"
+        }
+    },
+    "plugins": [
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "advanced-emoji",
+        "github",
+        "emphasize",
+        "splitter",
+        "tbfed-pagefooter",
+        "klipse",
+        "flexible-alerts",
+        "auto-scroll-table",
+        "popup"
+    ],
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": true
+        },
+        "github": {
+            "url": "https://github.com/entertech/ACDocuments"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy affectivecloud.com 2019",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }

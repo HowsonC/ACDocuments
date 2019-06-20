@@ -7,17 +7,16 @@
     "structure": {
         "readme": "README.md"
     },
-    "links": {
-        "sidebar": {
-            "Affective Cloud": "https://api.affectivecloud.cn"
-        }
-    },
     "plugins": [
-        "back-to-top-button",
-        "chapter-fold",
-        "code",
+        "-sharing",
         "-lunr", 
         "-search", 
+        "-fontsettings",
+        "theme-fexa",
+        "back-to-top-button",
+        "cuav-chapters",
+        "chapter-fold",
+        "code",
         "search-pro",
         "advanced-emoji",
         "github",
@@ -29,6 +28,22 @@
         "auto-scroll-table",
         "popup"
     ],
+    "variables": {
+        "themeFexa":{
+            "nav":[
+                {
+                    "url":"https://www.entertech.cn",
+                    "target":"_blank",
+                    "name": "回车官网"
+                },
+                {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-BLE-Android-SDK",
+                    "target":"_blank",
+                    "name": "Android Demo"
+                }
+            ]
+        }
+    },
     "pluginsConfig": {
         "code": {
             "copyButtons": true
@@ -36,8 +51,40 @@
         "github": {
             "url": "https://github.com/entertech/ACDocuments"
         },
+        "flexible-alerts": {
+            "style": "flat",
+            "note": {
+                "label": {
+                  "zh-cn": "注意",
+                  "en": "Note"
+                }
+            },
+            "tip": {
+                "label": {
+                  "zh-cn": "小技巧",
+                  "en": "Tip"
+                }
+            },
+            "warning": {
+                "label": {
+                  "zh-cn": "警告",
+                  "en": "Warning"
+                }
+            },
+            "danger": {
+                "label": {
+                  "zh-cn": "危险",
+                  "en": "Attention"
+                }
+            }
+        },
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./favicon.png",
+            "favicon": "./favicon.png"
+        },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy affectivecloud.com 2019",
+            "copyright":"© Entertech 2019",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }

@@ -80,7 +80,7 @@
         },
         "theme-fexa":{
             "search-placeholder":"输入关键字搜索",
-            "logo":"./favicon.png",
+            "logo":"./logo.png",
             "favicon": "./favicon.png"
         },
         "tbfed-pagefooter": {

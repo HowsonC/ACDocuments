@@ -52,27 +52,17 @@
         },
         "flexible-alerts": {
             "note": {
-                "label": {
-                  "zh-hans": "注意",
-                  "en": "Note"
+                "label": "注意"
                 }
             },
             "tip": {
-                "label": {
-                  "zh-hans": "小技巧",
-                  "en": "Tip"
-                }
+                "label": "小技巧"
             },
             "warning": {
-                "label": {
-                  "zh-hans": "警告",
-                  "en": "Warning"
-                }
+                "label": "警告"
             },
             "danger": {
-                "label": {
-                  "zh-hans": "危险",
-                  "en": "Attention"
+                "label": "危险"
                 }
             }
         },

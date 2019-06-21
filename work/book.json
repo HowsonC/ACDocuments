@@ -53,7 +53,6 @@
         "flexible-alerts": {
             "note": {
                 "label": "注意"
-                }
             },
             "tip": {
                 "label": "小技巧"
@@ -63,7 +62,6 @@
             },
             "danger": {
                 "label": "危险"
-                }
             }
         },
         "theme-fexa":{

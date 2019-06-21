@@ -4,9 +4,6 @@
     "description": "Affective Cloud Documents",
     "language": "zh-hans",
     "gitbook": "3.2.3",
-    "structure": {
-        "readme": "README.md"
-    },
     "plugins": [
         "-sharing",
         "-lunr", 

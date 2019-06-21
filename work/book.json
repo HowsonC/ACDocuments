@@ -51,28 +51,27 @@
             "url": "https://github.com/entertech/ACDocuments"
         },
         "flexible-alerts": {
-            "style": "flat",
             "note": {
                 "label": {
-                  "zh-cn": "注意",
+                  "zh-hans": "注意",
                   "en": "Note"
                 }
             },
             "tip": {
                 "label": {
-                  "zh-cn": "小技巧",
+                  "zh-hans": "小技巧",
                   "en": "Tip"
                 }
             },
             "warning": {
                 "label": {
-                  "zh-cn": "警告",
+                  "zh-hans": "警告",
                   "en": "Warning"
                 }
             },
             "danger": {
                 "label": {
-                  "zh-cn": "危险",
+                  "zh-hans": "危险",
                   "en": "Attention"
                 }
             }

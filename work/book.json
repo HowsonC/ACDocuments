@@ -48,11 +48,12 @@
             "url": "https://github.com/entertech/ACDocuments"
         },
         "flexible-alerts": {
+            "style": "flat",
             "note": {
                 "label": "注意"
             },
             "tip": {
-                "label": "小技巧"
+                "label": "提示"
             },
             "warning": {
                 "label": "警告"

@@ -1,6 +1,5 @@
 .markdown-section blockquote, .markdown-section code, .markdown-section figure, .markdown-section img, .markdown-section pre, .markdown-section table, .markdown-section tr {
     page-break-inside: avoid;
-    align-content: center;
     text-align: center;
 }
 
@@ -8,4 +7,8 @@
 	text-align: center;
 	width: 50%; 
     padding: 15px 0px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
+    text-align: left;
 }

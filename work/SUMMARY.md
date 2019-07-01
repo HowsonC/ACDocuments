@@ -1,7 +1,5 @@
-* [Custom introduction name](README.md)
-# Affective Cloud Documents
+* [情感云计算简要介绍](README.md)
 
-* [回车情感云计算综述](回车情感云计算综述.md)
 - ☁️数据说明
   * [压力水平（Pressure）](☁️数据说明/压力水平（Pressure）.md)
   * [心率（HR）](☁️数据说明/心率（HR）.md)

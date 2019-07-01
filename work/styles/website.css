@@ -1,6 +1,5 @@
 .markdown-section blockquote, .markdown-section code, .markdown-section figure, .markdown-section img, .markdown-section pre, .markdown-section table, .markdown-section tr {
     page-break-inside: avoid;
-    align-content: center;
     text-align: center;
 }
 

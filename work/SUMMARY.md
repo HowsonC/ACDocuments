@@ -1,11 +1,12 @@
 # Affective Cloud Documents
-
+- [回车情感云计算综述](回车情感云计算综述.md)
 - ☁️数据说明
   * [压力水平（Pressure）](☁️数据说明/压力水平（Pressure）.md)
   * [心率（HR）](☁️数据说明/心率（HR）.md)
   * [愉悦度（Pleasure）](☁️数据说明/愉悦度（Pleasure）.md)
   * [放松度（Relaxation）](☁️数据说明/放松度（Relaxation）.md)
   * [注意力（Attention）](☁️数据说明/注意力（Attention）.md)
+  * [激活度（Arousal）](☁️数据说明/激活度（Arousal）.md)
   * [脑电波（EEG）](☁️数据说明/脑电波（EEG）.md)
 - 🎙接口协议
   * [Err Code](🎙接口协议/ErrCode.md)
@@ -17,3 +18,4 @@
 - 📲蓝牙采集模块
   * [回车生物电蓝牙采集模块操作说明](📲蓝牙采集模块/回车生物电蓝牙采集模块操作说明.md)
   * [回车蓝牙生物电采集模块使用注意事项](📲蓝牙采集模块/回车蓝牙生物电采集模块使用注意事项.md)
+

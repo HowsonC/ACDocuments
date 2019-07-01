@@ -8,3 +8,7 @@
 	width: 50%; 
     padding: 15px 0px;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
+    text-align: left;
+}

@@ -1,5 +1,6 @@
 # Affective Cloud Documents
-* [情感云计算介绍](README.md)
+* [平台介绍](README.md)
+* [平台能力](平台能力.md)
 - ☁️数据说明
   * [1. 脑电波（EEG）](☁️数据说明/1. 脑电波（EEG）.md)
   * [2. 心率（HR）](☁️数据说明/2. 心率（HR）.md)

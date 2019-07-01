@@ -1,7 +1,7 @@
 {
     "title": "Affective Cloud Documents",
     "author": "enter",
-    "description": "Affective Cloud Documents",
+    "description": "回车情感云计算平台",
     "language": "zh-hans",
     "stucture": {
         "readme": "回车情感云计算综述.md"
@@ -77,5 +77,13 @@
     },
     "styles": {
         "website": "styles/website.css"
+    },
+    "links": {
+        "sidebar": {
+            "蓝牙采集模块 Android SDK": "https://github.com/Entertech/Enter-Biomodule-BLE-Android-SDK",
+            "蓝牙采集模块 iOS SDK": "https://github.com/Entertech/Enter-Biomodule-BLE-iOS-SDK",
+            "蓝牙采集模块 SDK 和 情感云计算平台 API demo": "https://github.com/Entertech/Enter-Biomodule-Demo-Android"
+        }
+
     }
 }

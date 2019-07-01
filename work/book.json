@@ -76,6 +76,6 @@
         }
     },
     "styles": {
-        "website": "./css/image.css"
+        "website": "styles/website.css"
     }
 }

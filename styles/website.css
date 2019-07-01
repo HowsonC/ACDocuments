@@ -1,5 +1,5 @@
-div.image {
+.normal markdown-section img {
 	text-align: center;
-	width: 400px; 
+	width: 200px; 
     padding: 15px 0px;
 }

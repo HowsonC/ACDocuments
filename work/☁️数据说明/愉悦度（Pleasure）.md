@@ -11,6 +11,7 @@
 
 
 [1] Davidson R J, Ekman P, Saron C, Senulis J, Friesen W V. Approach/withdrawal and cerebral asymmetry: Emotional expression and brain physiology: I. Journal of Personality and Social Psychology, 1990, 58: 330~34
+
 [2] Sutton S K, Davidson R J, Donzella B, Irwin W, Dottl D A. Manipulating affective state using extended picture presentation. Psychophysiology, 1997, 34: 217:226
 
 ## 最佳实践

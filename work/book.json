@@ -3,6 +3,9 @@
     "author": "enter",
     "description": "Affective Cloud Documents",
     "language": "zh-hans",
+    "stucture": {
+        "readme": "回车情感云计算综述.md"
+    },
     "gitbook": "3.2.3",
     "plugins": [
         "-sharing",
@@ -23,7 +26,8 @@
         "klipse",
         "flexible-alerts",
         "auto-scroll-table",
-        "popup"
+        "lightbox",
+        "image-div"
     ],
     "variables": {
         "themeFexa":{
@@ -44,9 +48,6 @@
     "pluginsConfig": {
         "code": {
             "copyButtons": true
-        },
-        "github": {
-            "url": "https://github.com/entertech/ACDocuments"
         },
         "flexible-alerts": {
             "style": "flat",
@@ -73,5 +74,8 @@
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
+    },
+    "styles": {
+        "website": "./css/image.css"
     }
 }

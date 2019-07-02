@@ -12,3 +12,7 @@
 .book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
     text-align: left;
 }
+
+@media screen and (max-width:768px){
+	.book-anchor {display: none;}
+}

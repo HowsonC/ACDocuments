@@ -1,11 +1,8 @@
 {
-    "title": "Affective Cloud Documents",
-    "author": "enter",
-    "description": "回车情感云计算平台",
+    "title": "回车情感云计算平台开发文档",
+    "author": "Entertech",
+    "description": "回车情感云计算平台以脑电为基础，结合心率、皮肤电导率等多维传感器，实现对人体健康的监测以及对专注度、疲劳度、情绪情感等状态的识别。",
     "language": "zh-hans",
-    "stucture": {
-        "readme": "回车情感云计算综述.md"
-    },
     "gitbook": "3.2.3",
     "plugins": [
         "-sharing",

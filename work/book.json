@@ -1,5 +1,5 @@
 {
-    "title": "回车情感云计算平台开发文档",
+    "title": "回车情感云开发文档",
     "author": "Entertech",
     "description": "回车情感云计算平台以脑电为基础，结合心率、皮肤电导率等多维传感器，实现对人体健康的监测以及对专注度、疲劳度、情绪情感等状态的识别。",
     "language": "zh-hans",
@@ -35,9 +35,19 @@
                     "name": "回车官网"
                 },
                 {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-Demo-Android",
+                    "target":"_blank",
+                    "name": "Android API Demo"
+                },
+                {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-BLE-iOS-SDK",
+                    "target":"_blank",
+                    "name": "蓝牙 iOS SDK"
+                },
+                {
                     "url":"https://github.com/Entertech/Enter-Biomodule-BLE-Android-SDK",
                     "target":"_blank",
-                    "name": "Android Demo"
+                    "name": "蓝牙 Android SDK"
                 }
             ]
         }
@@ -74,13 +84,5 @@
     },
     "styles": {
         "website": "styles/website.css"
-    },
-    "links": {
-        "sidebar": {
-            "蓝牙采集模块 Android SDK": "https://github.com/Entertech/Enter-Biomodule-BLE-Android-SDK",
-            "蓝牙采集模块 iOS SDK": "https://github.com/Entertech/Enter-Biomodule-BLE-iOS-SDK",
-            "蓝牙采集模块 SDK 和 情感云计算平台 API demo": "https://github.com/Entertech/Enter-Biomodule-Demo-Android"
-        }
-
     }
 }

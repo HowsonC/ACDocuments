@@ -1,4 +1,4 @@
-# Affective Cloud Documents
+# 回车情感云开发文档
 * [平台介绍](README.md)
 * [平台能力](平台能力.md)
 - ☁️数据说明
@@ -9,6 +9,7 @@
   * [5. 压力水平（Pressure）](☁️数据说明/5. 压力水平（Pressure）.md)
   * [6. 愉悦度（Pleasure）](☁️数据说明/6. 愉悦度（Pleasure）.md)
   * [7. 激活度（Arousal）](☁️数据说明/7. 激活度（Arousal）.md)
+  * [8. 睡眠（Sleep）](☁️数据说明/8. 睡眠（Sleep）.md)
 - 🎙接口协议
   * [1. 综述](🎙接口协议/1. 综述.md)
   * [2. 协议格式](🎙接口协议/2. 协议格式.md)

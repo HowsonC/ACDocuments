@@ -25,6 +25,7 @@
 	.header-inner #book-search-input {margin: 5px 0px;}
 	.header-inner {height: 100px;}
 	.header-inner .header-nav {display: none;}
+	.book-header {display: none;}
 	.markdown-section img {width: 100%;}
 	.page-inner {padding: 20px 20px 40px 40px;}
 	.book-anchor {display: none;}

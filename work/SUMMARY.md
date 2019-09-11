@@ -11,6 +11,8 @@
   * [6. 愉悦度（Pleasure）](☁️数据说明/6. 愉悦度（Pleasure）.md)
   * [7. 激活度（Arousal）](☁️数据说明/7. 激活度（Arousal）.md)
   * [8. 睡眠（Sleep）](☁️数据说明/8. 睡眠（Sleep）.md)
+  * [9. 儿童注意力（Attention CHD）](☁️数据说明/9. 儿童注意力（Attention CHD）.md)
+  * [10. 儿童放松度（Relaxation CHD）](☁️数据说明/10. 儿童放松度（Relaxation CHD）.md)
 - 🎙接口协议
   * [1. 综述](🎙接口协议/1. 综述.md)
   * [2. 协议格式](🎙接口协议/2. 协议格式.md)

@@ -49,6 +49,7 @@
 	    position: relative;
 	    font-size: 20px;
 	}
+	.header-inner #book-search-input input[type="text"] { border-radius: 0; }
 	.markdown-section img {width: 100%;}
 	.page-inner {padding: 0px 20px 0px 20px;}
 	.book-anchor {display: none;}

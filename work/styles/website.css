@@ -26,7 +26,7 @@
 	.header-inner {height: 100px;}
 	.header-inner .header-nav {display: none;}
 	.book-header {
-		bottom: 70px;
+		bottom: 60px;
 	    right: 10px;
 	    position: fixed;
 	    padding: 0;
@@ -52,4 +52,5 @@
 	.markdown-section img {width: 100%;}
 	.page-inner {padding: 0px 20px 0px 20px;}
 	.book-anchor {display: none;}
+	.back-to-top {display: none;}
 }

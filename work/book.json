@@ -24,7 +24,8 @@
         "flexible-alerts",
         "auto-scroll-table",
         "lightbox",
-        "image-div"
+        "image-div",
+        "url-embed"
     ],
     "variables": {
         "themeFexa":{
